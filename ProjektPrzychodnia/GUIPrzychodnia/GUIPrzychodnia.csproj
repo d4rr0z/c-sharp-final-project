@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Account.png" />
+    <None Remove="Images\Doctor.png" />
+    <None Remove="Images\doctorCrane.png" />
+    <None Remove="Images\doctorHarleen.png" />
+    <None Remove="Images\doctorNigma.png" />
+    <None Remove="Images\doctorPamela.png" />
+    <None Remove="Images\doctorSelina.png" />
+    <None Remove="Images\doctorStrange.png" />
+    <None Remove="Images\Edit.png" />
+    <None Remove="Images\Enter.png" />
+    <None Remove="Images\icons8-calendar-50.png" />
+    <None Remove="Images\Lock.png" />
+    <None Remove="Images\Login.png" />
+    <None Remove="Images\Medic_logo.png" />
+    <None Remove="Images\User.png" />
+    <None Remove="Sound\music.mp3" />
+    <None Remove="Sound\music.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjektPrzychodnia\ProjektPrzychodnia.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Account.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Doctor.png" />
+    <Content Include="Images\doctorCrane.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\doctorHarleen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\doctorNigma.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\doctorPamela.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\doctorSelina.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\doctorStrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\Edit.png" />
+    <Resource Include="Images\Enter.png" />
+    <Resource Include="Images\icons8-calendar-50.png" />
+    <Resource Include="Images\Lock.png" />
+    <Resource Include="Images\Login.png" />
+    <Resource Include="Images\Medic_logo.png" />
+    <Resource Include="Images\User.png" />
+    <Content Include="Sound\music.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

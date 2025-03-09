@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjektPrzychodnia</name>
+    </assembly>
+    <members>
+        <member name="T:ProjektPrzychodnia.Lekarz">
+            <summary>
+            Klasa reprezentujaca lekarza przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Lekarz.Nr">
+            <summary>
+            Numer wykorzystywany do stworzenia ID.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Lekarz.IdLekarza">
+            <summary>
+            ID lekarza.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Lekarz.Specjalizacja">
+            <summary>
+            Specjalizacja lekarza.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Lekarz.ZdjecieSciezka">
+            <summary>
+            Sciezka do zdjecia lekarza.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Lekarz.TerminyPrzyjec">
+            <summary>
+            Lista z terminami przyjec lekarza.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.#cctor">
+            <summary>
+            Konstruktor statyczny inicjalizujacy nr na wartosc 1.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.#ctor">
+            <summary>
+            Konstruktor nieparametryczny.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,ProjektPrzychodnia.EnumPlec,System.String,System.String)">
+            <summary>
+            Konstruktor parametryczny.
+            </summary>
+            <param name="imie">Imie.</param>
+            <param name="nazwisko">Nazwisko.</param>
+            <param name="pesel">Numer PESEL.</param>
+            <param name="miasto">Miasto.</param>
+            <param name="numerTelefonu">Numer telefonu.</param>
+            <param name="dataUrodzenia">Data urodzenia.</param>
+            <param name="plec">Plec.</param>
+            <param name="specjalizacja">Specjalizacja.</param>
+            <param name="zdjecieSciezka">Sciezka do zdjecia.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.GenerujTerminy">
+            <summary>
+            Funkcja, ktora tworzy liste terminow przyjec.
+            </summary>
+            <returns>Zwraca liste z terminami przyjec.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy lekarza.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Lekarz.Clone">
+            <summary>
+            Metoda do kopiowania lekarza.
+            </summary>
+            <returns>Zwraca kopie lekarza.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.EnumPlec">
+            <summary>
+            Typ wyliczeniowy dla plci: M - mezczyzna, K - kobieta.
+            </summary>
+        </member>
+        <member name="T:ProjektPrzychodnia.Osoba">
+            <summary>
+            Klasa abstrakcyjna reprezentujaca osobe. Po tej klasie dziedzicza pozostale klasy
+            reprezentujace osoby.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.Imie">
+            <summary>
+            Wlasciwosc dla pola imie.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.Nazwisko">
+            <summary>
+            Wlasciwosc dla pola nazwisko.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.Pesel">
+            <summary>
+            Wlasciwosc dla pola pesel.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.Miasto">
+            <summary>
+            Wlasciwosc dla pola miasto.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.NumerTelefonu">
+            <summary>
+            Wlasciwosc dla pola numerTelefonu.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.DataUrodzenia">
+            <summary>
+            Wlasciwosc dla pola dataUrodzenia.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Osoba.Plec">
+            <summary>
+            Wlasciwosc dla pola plec.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.#ctor">
+            <summary>
+            Konstruktor nieparametryczny.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,ProjektPrzychodnia.EnumPlec)">
+            <summary>
+            Konstruktor parametryczny.
+            </summary>
+            <param name="imie">Imie.</param>
+            <param name="nazwisko">Nazwisko.</param>
+            <param name="pesel">Numer PESEL.</param>
+            <param name="miasto">Miasto.</param>
+            <param name="numerTelefonu">Numer telefonu.</param>
+            <param name="dataUrodzenia">Data urodzenia.</param>
+            <param name="plec">Plec.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy osobe.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.Equals(ProjektPrzychodnia.Osoba)">
+            <summary>
+            Metoda, ktora po peselu sprawdza czy dwie osoby sa takie same.
+            </summary>
+            <param name="other">Osoba, z ktora chcemy porownac inna osobe.</param>
+            <returns>True, jezeli osoby maja taki sam pesel, w przeciwnym wypadku False.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.CompareTo(ProjektPrzychodnia.Osoba)">
+            <summary>
+            Metoda, ktora najpierw na podstawie nazwiska, a nastepnie imienia 
+            ustala kolejnosc dwoch osob.
+            </summary>
+            <param name="other">Osoba, z ktora chcemy porownac inna osobe.</param>
+            <returns>Zwraca 1, jezeli other jest nullem, 0 jezeli obiekty maja to samo 
+            imie i nazwisko, wartosc mniejsza od 0 jezeli osoba, ktora porownujemy z other
+            wystepuje pierwsza w kolejnosci, a wartosc wieksza od 0 w przeciwnym wypadku.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.Osoba.CzyPrawidloweDelegat">
+            <summary>
+            Delegat reprezentujacy metode CzyPrawidlowe.
+            </summary>
+            <param name="tekst">Ciag znakow.</param>
+            <returns>Zwraca True albo False.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Osoba.CzyPrawidlowe(System.String)">
+            <summary>
+            Metoda wykorzystujaca powyzszy delegat w celu okreslenia 
+            czy podany parametr jest prawidlowy.
+            </summary>
+            <param name="tekst">Ciag znakow.</param>
+            <returns>Zwraca wynik wywolania delegata.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.Pacjent">
+            <summary>
+            Klasa reprezentujaca pacjenta przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pacjent.Nr">
+            <summary>
+            Numer wykorzystywany do stworzenia ID.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pacjent.IdPacjenta">
+            <summary>
+            ID pacjenta.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pacjent.#ctor">
+            <summary>
+            Konstruktor nieparametryczny inicjalizujacy ID pacjenta.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pacjent.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,ProjektPrzychodnia.EnumPlec)">
+            <summary>
+            Konstruktor parametryczny inicjalizujacy dodatkowo ID pacjenta.
+            </summary>
+            <param name="imie">Imie.</param>
+            <param name="nazwisko">Nazwisko.</param>
+            <param name="pesel">Numer PESEL.</param>
+            <param name="miasto">Miasto.</param>
+            <param name="numerTelefonu">Numer telefonu.</param>
+            <param name="dataUrodzenia">Data urodzenia.</param>
+            <param name="plec">Plec.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pacjent.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy pacjenta.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pacjent.Clone">
+            <summary>
+            Metoda do kopiowania pacjenta.
+            </summary>
+            <returns>Zwraca kopie pacjenta.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.Pracownik">
+            <summary>
+            Klasa reprezentujaca pracownika, pracujacego w rejestracji przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pracownik.Nr">
+            <summary>
+            Numer wykorzystywany do stworzenia ID.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pracownik.IdPracownika">
+            <summary>
+            ID pracownika.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pracownik.Login">
+            <summary>
+            Login pracownika do systemu.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Pracownik.Haslo">
+            <summary>
+            Haslo pracownika do systemu.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pracownik.#cctor">
+            <summary>
+            Konstruktor statyczny inicjalizujacy nr na wartosc 1.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pracownik.#ctor">
+            <summary>
+            Konstruktor nieparametryczny.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pracownik.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,ProjektPrzychodnia.EnumPlec,System.String,System.String)">
+            <summary>
+            Konstruktor parametryczny.
+            </summary>
+            <param name="imie">Imie.</param>
+            <param name="nazwisko">Nazwisko.</param>
+            <param name="pesel">Numer PESEL.</param>
+            <param name="miasto">Miasto.</param>
+            <param name="numerTelefonu">Numer telefonu.</param>
+            <param name="dataUrodzenia">Data urodzenia.</param>
+            <param name="plec">Plec.</param>
+            <param name="login">Login do systemu.</param>
+            <param name="haslo">Haslo do systemu.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pracownik.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy pracownika.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Pracownik.Clone">
+            <summary>
+            Metoda do kopiowania pracownika.
+            </summary>
+            <returns>Zwraca kopie pracownika.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.Przychodnia">
+            <summary>
+            Klasa reprezentujaca przychodnie.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.ZapiszDoBazy">
+            <summary>
+            Metoda zapisujaca przychodnie do bazy SQL. Dziala.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.OdczytajPrzychodnie">
+            <summary>
+            Metoda sluzaca do odczytu przychodni z bazy SQL. Nie do konca dziala...
+            </summary>
+            <returns>Zwraca z bazy danych obiekt przychodnia.</returns>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.Nazwa">
+            <summary>
+            Nazwa przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.PacNr">
+            <summary>
+            Numer wykorzystywany do dalszego tworzenia ID pacjenta w GUI.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.WizNr">
+            <summary>
+            Numer wykorzystywany do dalszego tworzenia ID wizyty w GUI.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.Pacjenci">
+            <summary>
+            Lista pacjentow przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.Lekarze">
+            <summary>
+            Lista lekarzy przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.Pracownicy">
+            <summary>
+            Lista pracownikow przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Przychodnia.Wizyty">
+            <summary>
+            Lista zarejestrowanych w przychodni wizyt.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.#ctor">
+            <summary>
+            Konstruktor nieparametryczny inicjalizujacy nazwe przychodni.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.#ctor(System.String)">
+            <summary>
+            Konstruktor parametryczny.
+            </summary>
+            <param name="nazwa">Nazwa przychodni.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.Dodaj``1(System.Collections.Generic.List{``0},``0)">
+            <summary>
+            Metoda dodajaca odpowiednia osobe do odpowiedniej listy. W przypadku pacjentow
+            sa tez zwiekszane odpowiednie numery do ID.
+            </summary>
+            <typeparam name="T">Typ dziedziczacy po klasie Osoba (razem z ta klasa).
+            W tym przypadku Pacjent, Lekarz lub Pracownik.</typeparam>
+            <param name="lista">Odpowiednia lista.</param>
+            <param name="osoba">Osoba, ktora chcemy dodac.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.Usun``1(System.Collections.Generic.List{``0},``0)">
+            <summary>
+            Metoda usuwajaca odpowiednia osobe z odpowiedniej listy.
+            </summary>
+            <typeparam name="T">Typ dziedziczacy po klasie Osoba (razem z ta klasa).
+            W tym przypadku Pacjent, Lekarz lub Pracownik.</typeparam>
+            <param name="lista">Odpowiednia lista.</param>
+            <param name="osoba">Osoba, ktora chcemy usunac.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.Aktualizuj``1(System.Collections.Generic.List{``0},``0)">
+            <summary>
+            Metoda aktualizujaca dane odpowiedniej osoby na odpowiedniej liscie.
+            </summary>
+            <typeparam name="T">Typ dziedziczacy po klasie Osoba (razem z ta klasa).
+            W tym przypadku Pacjent, Lekarz lub Pracownik.</typeparam>
+            <param name="lista">Odpowiednia lista.</param>
+            <param name="nowyObiekt">Osoba, ktorej dane chcemy zaktualizowac.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.ZarejestrujWizyte(ProjektPrzychodnia.Wizyta)">
+            <summary>
+            Metoda sluzaca do rejestracji wizyt.
+            </summary>
+            <param name="wizyta">Wizyta, ktora zarejestrowac chcemy.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.UsunWizyte(ProjektPrzychodnia.Wizyta)">
+            <summary>
+            Metoda do usuwania wizyt.
+            </summary>
+            <param name="wizyta">Wizyta, ktora chcemy usunac.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.Sortuj">
+            <summary>
+            Metoda do sortowania pacjentow. Wykorzystuje metode CompareTo z klasy Osoba,
+            czyli najpierw sortuje po nazwisku, a potem po imieniu.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.SortujPoId">
+            <summary>
+            Metoda sortujaca pacjentow wedlug ID.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.CzescNumerycznaId(ProjektPrzychodnia.Pacjent)">
+            <summary>
+            Metoda pomocnicza, wykorzystywana w metodzie sortujacej po ID.
+            </summary>
+            <param name="pacjent">Pacjent.</param>
+            <returns>Zwraca numer z ID.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy przychodnie.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.ZapiszXML(System.String)">
+            <summary>
+            Metoda serializujaca przychodnie do XML.
+            </summary>
+            <param name="nazwa">Nazwa pliku, do ktorego chcemy zapisac wynik serializacji.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.OdczytXml(System.String)">
+            <summary>
+            Metoda sluzaca do odczytu przychodni z pliku XML.
+            </summary>
+            <param name="nazwa">Nazwa pliku, w ktorym zapisana jest przychodnia.</param>
+            <returns>Zwraca obiekt Przychodnia.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Przychodnia.Clone">
+            <summary>
+            Metoda do kopiowania przychodni.
+            </summary>
+            <returns>Zwraca kopie przychodni.</returns>
+        </member>
+        <member name="T:ProjektPrzychodnia.Wizyta">
+            <summary>
+            Klasa reprezentujaca wizyte w przychodni.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Wizyta.Nr">
+            <summary>
+            Numer wykorzystywany do stworzenia ID.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Wizyta.IdWizyty">
+            <summary>
+            ID wizyty.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Wizyta.Pacjent">
+            <summary>
+            Pacjent.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Wizyta.Lekarz">
+            <summary>
+            Lekarz.
+            </summary>
+        </member>
+        <member name="P:ProjektPrzychodnia.Wizyta.Termin">
+            <summary>
+            Termin wizyty.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Wizyta.#ctor">
+            <summary>
+            Konstruktor nieparametryczny inicjalizujacy ID wizyty.
+            </summary>
+        </member>
+        <member name="M:ProjektPrzychodnia.Wizyta.#ctor(ProjektPrzychodnia.Pacjent,ProjektPrzychodnia.Lekarz,System.String)">
+            <summary>
+            Konstruktor parametryczny inicjalizujacy dodatkowo ID wizyty.
+            </summary>
+            <param name="pacjent">Pacjent.</param>
+            <param name="lekarz">Lekarz.</param>
+            <param name="termin">Termin wizyty.</param>
+        </member>
+        <member name="M:ProjektPrzychodnia.Wizyta.ToString">
+            <summary>
+            Nadpisanie metody ToString().
+            </summary>
+            <returns>Zwraca napis reprezentujacy wizyte.</returns>
+        </member>
+        <member name="M:ProjektPrzychodnia.Wizyta.Clone">
+            <summary>
+            Metoda do kopiowania wizyty.
+            </summary>
+            <returns>Zwraca kopie wizyty.</returns>
+        </member>
+    </members>
+</doc>

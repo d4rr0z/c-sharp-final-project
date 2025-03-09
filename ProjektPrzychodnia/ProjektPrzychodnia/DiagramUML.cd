@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektPrzychodnia.Osoba" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAQAABAEKAAQASkgAAAAAAAACAAAAggAAAIAACAAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.Lekarz" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAAAAAAAAEAAAABAACAEAACgJAAAggQAAAAFA=</HashCode>
+      <FileName>Lekarz.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.Pacjent" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAAAAAAAAEAAAAACAAAEAgAABAAAAIAAAAABA=</HashCode>
+      <FileName>Pacjent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.Pracownik" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAEAgAAAAAAAAEAAAAAAAAAEAAAABAAAAQAQAAEBE=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.Wizyta" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACAhAAAAAAAEEAAABAAAAAEAEAIBABACAAAAAABg=</HashCode>
+      <FileName>Wizyta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.Przychodnia" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABIwCAAiAAAAECAQIEAgGEBgAAAMAAQAkIAAANBA=</HashCode>
+      <FileName>Przychodnia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPrzychodnia.NiepoprawnyPeselException" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NiepoprawnyPeselException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPrzychodnia.NiewlasciweDaneException" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NiewlasciweDaneException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPrzychodnia.BlednaDataException" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlednaDataException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPrzychodnia.ZlyNumerException" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZlyNumerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPrzychodnia.PrzychodniaDbContext" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAACAAAEAAECAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrzychodniaDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjektPrzychodnia.IZapisXML" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Przychodnia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ProjektPrzychodnia.EnumPlec" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

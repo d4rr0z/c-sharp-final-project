@@ -1,0 +1,20 @@
+﻿GUIPrzychodnia
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\
+GUIPrzychodnia
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\App.xaml
+4183580232
+7-352959054
+8-474329340
+198-1277853356
+DodajWizyteWindow.xaml;LekarzeWindow.xaml;MainWindow.xaml;PacjenciWindow.xaml;
+
+True
+

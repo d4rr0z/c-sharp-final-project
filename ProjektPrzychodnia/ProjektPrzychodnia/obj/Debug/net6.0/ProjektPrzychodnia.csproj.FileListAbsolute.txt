@@ -1,0 +1,100 @@
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.exe
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.deps.json
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfo.cs
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\refint\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.genruntimeconfig.cache
+C:\Users\Dariusz Rozycki\source\repos\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ref\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.exe
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfo.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\refint\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.genruntimeconfig.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ref\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.exe
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfo.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\refint\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.genruntimeconfig.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ref\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.AssemblyReference.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CopyComplete
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.exe
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.deps.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.AssemblyReference.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.AssemblyInfo.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.csproj.CopyComplete
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\refint\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ProjektPrzychodnia.genruntimeconfig.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\ProjektPrzychodnia\obj\Debug\net6.0\ref\ProjektPrzychodnia.dll

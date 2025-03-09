@@ -1,0 +1,139 @@
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.lref
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.AssemblyReference.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.g.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.g.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.exe
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.exe
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.g.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.baml
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.baml
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.baml
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.g.resources
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfo.cs
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CopyComplete
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\refint\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.genruntimeconfig.cache
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\ref\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Sound\music.wav
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_Content.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.AssemblyReference.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_Content.g.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.lref
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\refint\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Sound\music.wav
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.exe
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.exe
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.deps.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.runtimeconfig.json
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.pdb
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.baml
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.baml
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.baml
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.g.resources
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfo.cs
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CopyComplete
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.genruntimeconfig.cache
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\ref\GUIPrzychodnia.dll
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorCrane.png
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorStrange.png
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorHarleen.png
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorNigma.png
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorPamela.png
+C:\Users\Justyna\Desktop\c#\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorSelina.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorCrane.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorHarleen.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorNigma.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorPamela.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorSelina.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorStrange.png
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Justyna\Desktop\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorCrane.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorHarleen.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorNigma.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorPamela.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorSelina.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Images\doctorStrange.png
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\Sound\music.wav
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.deps.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.runtimeconfig.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.exe
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.exe
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.deps.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.runtimeconfig.json
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\bin\Debug\net6.0-windows\ProjektPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.AssemblyReference.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_Content.g.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia_MarkupCompile.lref
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\DodajWizyteWindow.baml
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\LekarzeWindow.baml
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\PacjenciWindow.baml
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.g.resources
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfoInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.AssemblyInfo.cs
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.csproj.CopyComplete
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\refint\GUIPrzychodnia.dll
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.pdb
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\GUIPrzychodnia.genruntimeconfig.cache
+C:\Users\Dariusz Rozycki\source\repos\final_newfinal\test\ProjektPrzychodnia  1\ProjektPrzychodnia\GUIPrzychodnia\obj\Debug\net6.0-windows\ref\GUIPrzychodnia.dll
